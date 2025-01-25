@@ -54,11 +54,10 @@
 ## 📫 Benimle İletişime Geçin
 
 - [E-posta](mailto:dcelik@denizcelik.me)
-- [Web Sitem](denizcelik.me)
+- [Web Sitem](https://denizcelik.me)
 - ... (Eklemek istediğiniz diğer iletişim bilgilerini buraya yazın)
 
 **Not:** Linkleri kendi bilgilerinizle güncelleyin.
 
 ## 🏆 Ödüller ve Başarılar
 
-- ... (Varsa ödüllerinizi ve başarılarınızı buraya yazın
