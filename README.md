@@ -1,63 +1,57 @@
-# Merhaba, Ben Deniz Çelik 👋
+# Hi, I'm Deniz Çelik 👋
 
-## Hakkımda
+## About Me
 
-- 🔭 Şu anda ... üzerinde çalışıyorum
-- 🌱 Şu anda ... öğreniyorum
-- 👯 ... iş birliği yapmak istiyorum
-- 🤔 ... için yardım arıyorum
-- 💬 Bana ... hakkında sorular sorabilirsiniz
-- 📫 Bana nasıl ulaşabilirsiniz: ...
-- 😄 Zamirlerim: ...
-- ⚡ Eğlenceli bilgi: ...
+-💻 I love developing software.
 
-## 🚀 Becerilerim ve Deneyimlerim
+## 🚀 Skills & Experience
 
-- Programlama Dilleri:
+- Programming Languages:
   - [ ] Java
   - [x] Python
   - [x] C++
   - [ ] JavaScript
   - [x] C#
-  - [ ] ... (Eklemek istediğiniz dilleri buraya yazın)
+  - [ ] ... (Add any languages you want here)
 
-- Veritabanları:
+- Databases:
   - [x] MySQL
   - [ ] PostgreSQL
   - [ ] MongoDB
   - [x] SQLite
-  - [ ] ... (Eklemek istediğiniz veritabanlarını buraya yazın)
+  - [ ] ... (Add any databases you want here)
 
-- Frameworkler/Kütüphaneler:
+- Frameworks/Libraries:
   - [x] React
   - [ ] Angular
   - [ ] Vue.js
   - [ ] Spring
   - [x] Django
-  - [ ] ... (Eklemek istediğiniz framework/kütüphaneleri buraya yazın)
+  - [ ] ... (Add any frameworks/libraries you want here)
 
-- Araçlar:
+- Tools:
   - [x] Git
   - [x] Docker
   - [ ] Kubernetes
-  - [ ] ... (Eklemek istediğiniz araçları buraya yazın)
+  - [ ] ... (Add any tools you want here)
 
-- Diğer:
-  - [ ] ... (Eklemek istediğiniz diğer becerileri buraya yazın)
+- Other:
+  - [ ] ... (Add any other skills you want here)
 
-## 📈 GitHub İstatistiklerim
+## 📈 My GitHub Stats
 
-![Deniz'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=denizcelik213&show_icons=true&theme=radical)
+![Deniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=denizcelik213&show_icons=true&theme=radical)
 
-[![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcelik213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizcelik213&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Benimle İletişime Geçin
+## 📫 Contact Me
 
-- [E-posta](mailto:dcelik@denizcelik.me)
-- [Web Sitem](https://denizcelik.me)
-- ... (Eklemek istediğiniz diğer iletişim bilgilerini buraya yazın)
+- [Email](mailto:dcelik@denizcelik.me)
+- [Website](https://denizcelik.me)
+- ... (Add any other contact information you want here)
 
-**Not:** Linkleri kendi bilgilerinizle güncelleyin.
+**Note:** Update the links with your own information.
 
-## 🏆 Ödüller ve Başarılar
+## 🏆 Awards & Achievements
 
+- ... (Add your awards and achievements here)
